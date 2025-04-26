@@ -76,7 +76,7 @@ const Home = () => {
 							<p className='portfolio__card-body'>Sept 2024 - Present</p>
 						</div>
 					</div>
-					<div className='portfolio__card' onClick={() => window.open('https://github.com/eoghano4321/personal-website')}>
+					<div className='portfolio__card' onClick={() => window.open('https://github.com/eoghano4321/PortfolioWebsite')}>
 						<img src={PersonalSite} alt='this website' />
 						<div className='portfolio__card-text'>
 						<p className='portfolio__card-title'>This Website</p>
